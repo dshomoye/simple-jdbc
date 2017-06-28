@@ -1,6 +1,8 @@
 # simple-jdbc
+ *from software design laboratory course*
 A simple demo app for connecting to a database (hsqldb used here) using jdbc API
 Allows for managing player stats, and controlling access control.  
+
 
 the statistics from the database is accessed by entering one username and password combination from below :
 
